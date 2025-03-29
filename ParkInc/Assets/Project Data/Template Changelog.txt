@@ -1,0 +1,31 @@
+v1.5.1
+Watermelon Core update
+All VFX reworked
+Improved mobile vibration
+Reworked game graphics
+
+v1.5
+Watermelon Core update (new project structure, optimization of core modules)
+New in-game store
+
+v1.4
+Unity 2022 support
+Core update
+
+v1.3.6
+Unity 2021 support
+Core update
+Bugfixes
+
+v1.2
+Store currency cloud
+Store adjustments (pages)
+Bugfixes
+
+v1.1
+Store
+Bugfixes
+Core update
+
+v1.0
+Base
